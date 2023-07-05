@@ -1,7 +1,7 @@
 # Real-Estate-Sales-Performance-Dashboard
 Real Estate Sales Performance Dashboard
 
-Chackout my Dashboards :  https://www.novypro.com/profile_projects/prasannakumar
+Checkout my Dashboards :  https://www.novypro.com/profile_projects/prasannakumar
 
 
 
